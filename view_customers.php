@@ -16,7 +16,7 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav" style="float:right; font-size:16px">
       <li class="nav-item active" style="padding-right:6em">
-        <a class="nav-link" href="home.php" style="color: white">Home<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index.php" style="color: white">Home<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item" style="padding-right:6em">
         <a class="nav-link" href="view_customers.php" style="color:white">View all customers</a>
