@@ -143,7 +143,7 @@ if(isset($_POST['submit'])){
         </div>
         <div class="form">
             <!-- Form for taking receiver's name and amount to transfer as input -->
-            <form method="POST" style="padding:20px">
+            <form method="POST">
             <h2>Transfer Amount to</h2>
             <select name="receiver" id="receiver">
             <option>Select Receiver...</option>
